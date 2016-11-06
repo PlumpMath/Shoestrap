@@ -24,3 +24,13 @@ div {
   content: "";
   clear: both;
 } 
+
+nav div {
+  display: inline-block;
+  width: 19%;
+}
+nav {
+  background-color: yellow;
+  width: 100%;
+  top: 0;
+}
